@@ -4,9 +4,9 @@ Welp, this is the official Arduino Uno DS1307 alarm clock v0.1, I will be updati
 
 # What you need to do
 
-Navagate to the Code folder, there you will find 2 (currently) files, the first one, SetTime, will be you setting up your DS1307 RTC module, and you will find another file in the Circuit Wiring folder which includes a screenshot of how the DS1307 should be connected to the Arduino Uno.
-Next, you have to navagate in the Code folder to the ReadTimeTest sketch, which is what you will need in order to make the DS1307 RTC module display the time and date correctly on the Serial Monitor, by clicking Tools then Serial Monitor (on macOS).
-For the complete alarm clock which I will be updating occasionally, the code is in the Advanced 1 folder, and just download the zip and you should be able to use the code by navagating to Finder, where ever you downloaded the zip file then click the zip file, open the folder, navagate Advanced 1, then alarmclock full.ino
+Navigate to the Code folder, there you will find 2 (currently) files, the first one, SetTime, will be you setting up your DS1307 RTC module, and you will find another file in the Circuit Wiring folder which includes a screenshot of how the DS1307 should be connected to the Arduino Uno.
+Next, you have to navigate in the Code folder to the ReadTimeTest sketch, which is what you will need in order to make the DS1307 RTC module display the time and date correctly on the Serial Monitor, by clicking Tools then Serial Monitor (on macOS).
+For the complete alarm clock which I will be updating occasionally, the code is in the Advanced 1 folder, and just download the zip and you should be able to use the code by navigating to Finder, where ever you downloaded the zip file then click the zip file, open the folder, navigate Advanced 1, then alarmclock full.ino
 
 # Components and Where to Buy them
 
